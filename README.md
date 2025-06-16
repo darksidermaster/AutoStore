@@ -18,7 +18,7 @@ Este sistema permite que o personagem armazene automaticamente os itens no armaz
 No arquivo `config.txt`, defina:
 
 ```txt
-autoStorage 0
+storageAuto 0
 ```
 
 ---
